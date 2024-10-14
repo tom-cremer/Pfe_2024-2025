@@ -33,7 +33,7 @@ Le projet a pour objectif de développer une application web SaaS destinée à l
 - Accès personnalisé pour les employés, selon leurs rôles.
 
 ### Appartenance à plusieurs organisations
-- Les utilisateurs peuvent faire partie de plusieurs entreprises ou organisations avec un seul compte.
+- Les utilisateurs peuvent appartenir à plusieurs entreprises ou organisations avec un seul compte.
 
 ### Notifications et rappels
 - Alertes automatiques pour les shifts, les échéances de contrats, et autres événements importants.
