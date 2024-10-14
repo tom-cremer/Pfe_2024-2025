@@ -46,8 +46,8 @@ Le projet a pour objectif de développer une application web SaaS destinée à l
 ## Quelques mots en plus 
 
 Ici ce sont les idées qui me semblent définir un bon cahier de charges, 
-pour ce qui est du versioning cela sera un plus dans l'appli ce que je vois plutôt c'est 
-pourquoi pas inclure des audits sur les fichiers qui a modifié, téléchargé, supprimé et surtout quand.
+pour ce qui est du versioning cela sera un plus dans l'appli.
+Ce qui pourrait être intéressant d'avoir, c'est d'inclure des audits sur les fichiers qui a modifié, téléchargé, supprimé et surtout quand.
 
 
 
