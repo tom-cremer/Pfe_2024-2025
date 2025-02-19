@@ -2,7 +2,7 @@
 # Tom Cremer - PFE 2024/2025
 
 ## Description du Projet
-### Nom: À déterminer
+### Nom: Horixt
 
 Le projet a pour objectif de développer une application web SaaS destinée à la **gestion d'horaires et d'équipes** pour les petites et moyennes entreprises. Cette solution vise à simplifier la planification des horaires de travail, la gestion des équipes et la gestion des documents administratifs, tout en offrant des outils avancés pour améliorer l'efficacité et la communication au sein des équipes.
 
